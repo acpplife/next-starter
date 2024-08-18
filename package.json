@@ -15,6 +15,7 @@
     "@radix-ui/react-tabs": "^1.1.0",
     "@radix-ui/react-toast": "^1.2.1",
     "@radix-ui/react-tooltip": "^1.1.2",
+    "@xyflow/react": "^12.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.419.0",
@@ -22,12 +23,15 @@
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.4.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "zustand": "^4.5.5"
   },
   "devDependencies": {
+    "@types/dagre": "^0.7.52",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "cspell": "^8.14.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
     "postcss": "^8",
